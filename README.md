@@ -9,7 +9,7 @@ P.S. If you would like a custom icon made, DM me on discord Hunter#1243. I will 
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- Inventory script of your choice (most likely qb-inventory or aj-inventory)
+- Inventory script of your choice (most likely [qb-inventory](https://github.com/qbcore-framework/qb-inventory) or [aj-inventory](https://github.com/ihyajb/aj-inventory))
 
 ## Screenshots
 ### Melee
